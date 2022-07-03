@@ -11,7 +11,7 @@
 
 ### Music 🎧
 
-[<img src="https://spotify-now-playing-nine-psi.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/ntb0k1bfpam0v9b9xgt17x5zx?si=a9b4d829f6a14283)
+[<img src="https://spotify-now-playing-nine-psi.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/31hl6j5xe6dmm2w43blycpvbpkei?si=638b9366378f4df5)
 
 
 
