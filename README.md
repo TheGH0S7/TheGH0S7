@@ -52,8 +52,8 @@
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheYurei&theme=dark&show_icons=true&hide_border=true" />
 <img align="right" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYurei&langs_count=100&theme=dark" />
 
-[website]: https://theyurei.github.io/home/
-[twitter]: https://twitter.com/_Gh0s7c_
+[website]: http://galactical.club
+[twitter]: https://twitter.com/1337GH0S7
 [youtube]: https://www.youtube.com/channel/UC26lEyktzukauPZbtvPi_EA
-[Discord]: https://discordapp.com/users/517007506082365452/
+[Discord]: https://discordapp.com/users/971406208336556063
 
