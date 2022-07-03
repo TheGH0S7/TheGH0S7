@@ -17,7 +17,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://theyurei.github.io/home/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="http://galactical.club" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
@@ -49,8 +49,8 @@
 
 <br />
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheYurei&theme=dark&show_icons=true&hide_border=true" />
-<img align="right" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYurei&langs_count=100&theme=dark" />
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheGH0S7&theme=dark&show_icons=true&hide_border=true" />
+<img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGH0S7&langs_count=100&theme=dark" />
 
 [website]: http://galactical.club
 [twitter]: https://twitter.com/1337GH0S7
