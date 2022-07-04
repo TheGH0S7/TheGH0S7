@@ -9,11 +9,6 @@
 
 ---
 
-### Music 🎧
-
-[<img src="https://pixel.chat/agUOc_tGX9bxzK4/9702822a-d2ca-4f26-8d12-2eaa60f3f246" alt="Spotify Playing"  />](https://open.spotify.com/user/31hl6j5xe6dmm2w43blycpvbpkei?si=638b9366378f4df5)
-
-
 
 ### Connect with me:
 
@@ -45,9 +40,6 @@
 <br />
 <br />
 
----
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 ---
 <br />
 
